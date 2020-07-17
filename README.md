@@ -26,7 +26,7 @@ The system can be accessed via the following URL:
 
 - Parikshit Diwan (Student ID: 1110497)
 
-**Tean location:** Melbourne
+**Team location:** Melbourne
 
 
 ## Project structure
